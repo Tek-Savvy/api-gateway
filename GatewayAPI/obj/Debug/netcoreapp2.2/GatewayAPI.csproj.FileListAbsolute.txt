@@ -1,0 +1,13 @@
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.deps.json
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.runtimeconfig.json
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.runtimeconfig.dev.json
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.dll
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\bin\Debug\netcoreapp2.2\GatewayAPI.pdb
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.csproj.CoreCompileInputs.cache
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.RazorAssemblyInfo.cache
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.RazorAssemblyInfo.cs
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.AssemblyInfoInputs.cache
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.AssemblyInfo.cs
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.RazorTargetAssemblyInfo.cache
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.dll
+C:\Users\x205605\source\repos\GatewayApiExample\GatewayAPI\obj\Debug\netcoreapp2.2\GatewayAPI.pdb

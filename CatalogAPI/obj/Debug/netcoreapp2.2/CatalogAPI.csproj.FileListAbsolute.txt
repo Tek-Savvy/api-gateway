@@ -1,0 +1,13 @@
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.deps.json
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.json
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.dev.json
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.dll
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.pdb
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csproj.CoreCompileInputs.cache
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cache
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cs
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfoInputs.cache
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.AssemblyInfo.cs
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.dll
+C:\Users\x205605\source\repos\GatewayApiExample\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.pdb
