@@ -1,5 +1,3 @@
-﻿https://www.youtube.com/watch?v=kl-NeEAb1WQ - GateWayAPI
-
 Intall Ocelot nuget package
 https://ocelot.readthedocs.io/en/latest/features/routing.html
 
